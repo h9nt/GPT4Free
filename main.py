@@ -1,10 +1,4 @@
 from requests import Session
-import base64
-
-# the bearer token is always required and well, its expire after some time
-# Thats an example of the decoded jtw: {"alg":"HS256","typ":"JWT"}{"iat":1763004248386,"exp":1763005148,"bundleId":"com.chatbot.ai.aichat.openaibot.chat","os":"Android","versionApp":"35.0.2"}
-# Im kidding, u have to use the modded version to get the premium auth token, get it here: https://t.me/c/2365551068/334 (private channel, make a request to join)
-# u should know how to get the token via httptoolkit intercept, and memu, easyy
 
 
 class GPTReverse:

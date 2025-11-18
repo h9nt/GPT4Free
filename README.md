@@ -12,3 +12,5 @@ Thats an example of the decoded jtw:
 so u have to use the modded version to get the premium auth token, get it here: **<a href="https://t.me/c/2365551068/334">Join the group</a>** (private channel, make a request to join)
 
 u should know how to get the token via **<a href="https://httptoolkit.com/">Httptoolkit</a>** intercept the app that's all, and use **<a href="https://www.memuplay.com/">Memu</a>** for an emulator , easyy
+
+# if i can find any new free apis i will create a py script and provide it here.
